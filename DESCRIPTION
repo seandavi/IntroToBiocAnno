@@ -1,12 +1,12 @@
-Package: BiocAnno2016
+Package: IntroToBiocAnno
 Type: Package
-Title: Package for Bioconductor 2016 annotation workshop
-Version: 1.1
-Date: 2016-06-17
-Author: James W. MacDonald
-Maintainer: James W. MacDonald <jmacdon@uw.edu>
-Description: This is a package for the annotation workshop, presented
-	     at BioC 2016
+Title: Introduction to Bioconductor Annotation packages
+Version: 1.2
+Date: 2016-06-27
+Author: Sean Davis & James W. MacDonald
+Maintainer: Sean Davis <seandavi@gmail.com>
+Description: This is a package designed to be used as an
+         annotation workshop for Bioconductor Annotation packages
 License: Artistic-2.0
 VignetteBuilder: knitr
 Depends: org.Hs.eg.db,

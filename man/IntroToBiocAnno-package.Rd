@@ -1,25 +1,25 @@
-\name{BiocAnno2016-package}
-\alias{BiocAnno2016-package}
-\alias{BiocAnno2016}
+\name{IntroToBiocAnno-package}
+\alias{IntroToBiocAnno-package}
+\alias{IntroToBiocAnno}
 \docType{package}
 \title{
-\packageTitle{BiocAnno2016}
+\packageTitle{IntroToBiocAnno}
 }
 \description{
-\packageDescription{BiocAnno2016}
+\packageDescription{IntroToBiocAnno}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{BiocAnno2016}
-\packageIndices{BiocAnno2016}
+\packageDESCRIPTION{IntroToBiocAnno}
+\packageIndices{IntroToBiocAnno}
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
 \author{
-\packageAuthor{BiocAnno2016}
+\packageAuthor{IntroToBiocAnno}
 
-Maintainer: \packageMaintainer{BiocAnno2016}
+Maintainer: \packageMaintainer{IntroToBiocAnno}
 }
 \references{
 ~~ Literature or other references for background information ~~
