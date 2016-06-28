@@ -4,8 +4,8 @@ To get started, cut-and-paste this into R:
 
 ```{r}
 source('https://bioconductor.org/biocLite.R')
-biocLite('seandavi/IntroToBiocAnno',
-    dependencies=TRUE,build_vignettes=TRUE,force=TRUE,type='source')
+biocLite('devtools')
+biocLite('seandavi/IntroToBiocAnno',dependencies=TRUE,build_vignettes=TRUE,force=TRUE,type='source')
 ```
 
 
