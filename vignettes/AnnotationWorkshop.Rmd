@@ -76,7 +76,7 @@ The end result might be as simple as a data.frame or HTML table, or as complex a
 
 ```{r}
 
-load(system.file("data/eset.Rdata", package = "BiocAnno2016"))
+load(system.file("data/eset.Rdata", package = "IntroToBiocAnno"))
 eset
 
 ```
