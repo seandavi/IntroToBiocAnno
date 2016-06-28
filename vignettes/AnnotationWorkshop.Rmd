@@ -37,7 +37,7 @@ ul > li:before {
 
 ```{r setup, include = FALSE}
 
-library(BiocAnno2016)
+library(IntroToBiocAnno)
 library(hugene20sttranscriptcluster.db)
 library(EnsDb.Mmusculus.v79)
 library(org.Hs.eg.db)
